@@ -1,4 +1,6 @@
 int main(){
-  printf("お帰りなさいませ　ご主人さま\n");
+  printf("Hello World!! \n");
   return 0;
 }
+
+　
